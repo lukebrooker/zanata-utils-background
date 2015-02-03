@@ -1,0 +1,20 @@
+{
+  "name": "zanata-utils-background",
+  "version": "1.0.0",
+  "description": "A utility for applying theme based background colors.",
+  "main": "index.js",
+  "style": "index.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/lukebrooker/zanata-utils-background"
+  },
+  "author": "Luke Brooker",
+  "license": "LGPL",
+  "bugs": {
+    "url": "https://github.com/lukebrooker/zanata-utils-background/issues"
+  },
+  "homepage": "https://github.com/lukebrooker/zanata-utils-background"
+}
